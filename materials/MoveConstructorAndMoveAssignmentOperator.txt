@@ -1,0 +1,5 @@
+https://en.cppreference.com/w/cpp/language/move_assignment
+https://en.cppreference.com/w/cpp/language/move_constructor
+https://docs.microsoft.com/en-us/cpp/cpp/move-constructors-and-move-assignment-operators-cpp?view=vs-2019
+https://stackoverflow.com/questions/9322174/move-assignment-operator-and-if-this-rhs
+https://stackoverflow.com/questions/46208967/move-assignment-operator-c
